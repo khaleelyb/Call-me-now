@@ -1,0 +1,7 @@
+{
+  "name": "Peer-to-Peer WebRTC Voice Chat",
+  "description": "A sleek, two-user P2P voice chat application powered by WebRTC. Experience real-time voice conversations between two users in the browser.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
